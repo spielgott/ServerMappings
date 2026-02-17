@@ -1,0 +1,30 @@
+{
+  "id": "beeblocks",
+  "name": "BeeBlocks",
+  "description": "#1 Citybuild Server",
+  "addresses": ["beeblocks.net, beeblocks.de, beeblocks.eu"],
+  "primaryAddress": "beeblocks.net",
+
+  "gameTypes": ["Citybuild"],
+
+  "primaryColor": "#FCCA00",
+  "secondaryColor": "#7BF728",
+
+  "minecraftVersions": ["1.21.4", "1.21.5", "1.21.6", "1.21.7", "1.21.8", "1.21.9", "1.21.10", "1.21.11"],
+  "primaryMinecraftVersion": "1.21.4",
+
+  "languages": ["de"],
+  "primaryLanguage": "de",
+
+  "regions": ["EU"],
+  "primaryRegion": "EU",
+
+  "website": "https://shop.beeblocks.net/",
+
+  "socials": {
+    "discord": "https://discord.com/invite/rZSCj4VVYd",
+    "tiktok": "@beeblocks.net",
+    "youtube": "@beeblocks_net",
+    "instagram": "@beeblocks_net"
+  }
+}
